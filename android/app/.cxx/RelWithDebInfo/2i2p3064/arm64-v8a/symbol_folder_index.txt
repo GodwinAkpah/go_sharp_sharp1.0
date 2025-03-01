@@ -1,0 +1,1 @@
+/home/godwin/AndroidStudioProjects/g7sharp/build/app/intermediates/cxx/RelWithDebInfo/2i2p3064/obj/arm64-v8a

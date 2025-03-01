@@ -1,0 +1,59 @@
+name: sharp_sharp
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  intl_phone_field: ^3.2.0
+  dio: ^5.4.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.18.1
+  logger: ^2.0.2+1
+  another_flushbar: ^1.12.30
+  flutter_feather_icons: ^2.0.0
+  dotted_border: ^2.1.0
+  device_info_plus: ^11.3.0
+  file_picker: ^8.3.5
+  permission_handler: ^11.3.1
+  image_picker: ^1.1.2
+  get: 4.6.6
+
+dev_dependencies:
+  built_value_generator:
+  retrofit_generator:
+  build_runner:
+  hive_generator:
+
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Regular.otf

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/godwin/dev/flutter_linux_3.22.2-stable/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/godwin/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/godwin/AndroidStudioProjects/g7sharp/android/app/.cxx/Debug/2a5q6s3r/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/godwin/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/godwin/AndroidStudioProjects/g7sharp/android/app/.cxx/Debug/2a5q6s3r/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

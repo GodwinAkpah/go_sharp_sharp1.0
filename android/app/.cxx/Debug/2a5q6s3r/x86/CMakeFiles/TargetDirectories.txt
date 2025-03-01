@@ -1,0 +1,2 @@
+/home/godwin/AndroidStudioProjects/g7sharp/android/app/.cxx/Debug/2a5q6s3r/x86/CMakeFiles/edit_cache.dir
+/home/godwin/AndroidStudioProjects/g7sharp/android/app/.cxx/Debug/2a5q6s3r/x86/CMakeFiles/rebuild_cache.dir
